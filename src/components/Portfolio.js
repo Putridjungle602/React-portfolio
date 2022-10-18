@@ -1,12 +1,5 @@
 import React from 'react';
 
-import PlaceHolderOne from "../../assets/images/placeholder_1_600.jpg";
-import PlaceHolderTwo from "../../assets/images/placeholder_2_600.jpg";
-import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
-import LookUp from "../../assets/images/LookUp-new.png";
-import MakeAppoint from "../../assets/images/make-a-point-app.png";
-import FinalProject from "../../assets/images/Final-Project.jpg";
-
 function Portfolio() {
   return (
     <section class="portfolio">
@@ -21,10 +14,10 @@ function Portfolio() {
             />
             <div class="card-body">
 
-              <a href="https://github.com/kara-krzystan/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://benmcrae5.github.io/lookup-by-ben-kara-kristin" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -40,10 +33,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/Team-Project-Wk15" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://team-project-wk15.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -58,10 +51,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan/final-final-v3" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://radiant-scrubland-03545.herokuapp.com/" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -77,10 +70,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -95,10 +88,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -113,10 +106,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
